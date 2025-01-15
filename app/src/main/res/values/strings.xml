@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practicum</string>
+    <string name="question_India_text">India is a country in South Asia.</string>
+    <string name="question_USA_text">USA is a country in North America.</string>
+    <string name="question_UK_text">UK is a country in Europe.</string>
+    <string name="question_UAE_text">UAE is a country in Asia.</string>
+    <string name="question_Australia_text">Australia is a country in Oceania.</string>
+    <string name="question_Water_text">Water boils at 100°C at sea level</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect!</string>
+    <string name="close_text">Close</string>
+    <string name="previous_text">Previous</string>
+    <string name="next_text">Next</string>
+    <string name="final_score">Final Score: %d%%</string>
+</resources>
